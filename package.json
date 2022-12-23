@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Daniel Zanabria",
 	"description": "Esta es la descripción de mi proyecto",
+	"keywords": [ "freecodecamp", "node", "javascript", "testing"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
